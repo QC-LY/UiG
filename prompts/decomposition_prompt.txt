@@ -1,0 +1,12 @@
+Please analyze the following image generation prompt and break it down into detailed, specific visual elements that would help create a high-quality image. Focus on:
+
+1. Main subject and pose
+2. Detailed appearance (clothing, features, expressions)
+3. Environment and background
+4. Lighting and atmosphere
+5. Art style and technical details
+6. Color palette and mood
+
+Original prompt: "{user_prompt}"
+
+Please provide a comprehensive, detailed description that expands on all visual aspects:

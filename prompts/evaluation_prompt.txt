@@ -1,0 +1,14 @@
+Please carefully examine this generated image and compare it with the original prompt: "{original_prompt}"
+
+Analyze the following aspects:
+1. Does the image accurately represent the main subject described in the prompt?
+2. Are the visual details (clothing, environment, style, etc.) consistent with the prompt?
+3. Is the overall mood and atmosphere matching the intended description?
+4. Are there any missing elements or incorrect interpretations?
+
+If the image matches the prompt well, respond with: "MATCH: The image successfully represents the prompt."
+
+If there are discrepancies, respond with: "EDIT_NEEDED: [specific editing instructions]"
+For example: "EDIT_NEEDED: The character should be wearing a red dress instead of blue, and the background should be a forest not a city."
+
+Please be specific about what needs to be changed:
