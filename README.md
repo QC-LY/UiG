@@ -1,6 +1,6 @@
-# Understanding-in-Generation:Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation
+# Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation
 
-The source code for ["Understanding-in-Generation:Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation"]().
+The source code for ["Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation"](https://arxiv.org/pdf/2509.18639).
 
 ![image](./assets/framework.png)
 
