@@ -66,7 +66,18 @@ Our codes are built on open-source codes, thanks to the following projects:
 
 Thanks for their outstanding works and open-source!
 
+## Citation
 
+If you find this repository useful, please consider giving stars ⭐ and citations
+
+```
+@article{lyu2025understanding,
+  title={Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation},
+  author={Lyu, Yuanhuiyi and Wong, Chi Kit and Liao, Chenfei and Jiang, Lutao and Zheng, Xu and Lu, Zexin and Zhang, Linfeng and Hu, Xuming},
+  journal={arXiv preprint arXiv:2509.18639},
+  year={2025}
+}
+```
 
 ## Contact
 
