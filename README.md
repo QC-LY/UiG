@@ -1,6 +1,21 @@
 # Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation
 
-Codes for ["Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation"](https://arxiv.org/pdf/2509.18639).
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.18639)
+
+[Yuanhuiyi Lyu](https://qc-ly.github.io/)<sup>1</sup>,
+[Chi-Kit Wong]()<sup>1</sup>,
+[Chenfei Liao](https://chenfei-liao.github.io/)<sup>1</sup>,
+[Lutao Jiang](https://lutao2021.github.io/)<sup>1</sup>,
+[Xu Zheng](https://zhengxujosh.github.io/)<sup>1</sup>,
+[Zexin Lu]()<sup>4</sup>,
+[Linfeng Zhang](http://www.zhanglinfeng.tech/)<sup>2</sup>,
+[Xuming Hu](https://xuminghu.github.io/)<sup>4</sup>,
+
+
+<span class="author-block"><sup>1</sup>The Hong Kong University of Science and Technology (Guangzhou)</span> \
+<span class="author-block"><sup>2</sup>Shanghai Jiao Tong University</span> \
+<span class="author-block"><sup>3</sup>The Hong Kong University of Science and Technology</span> \
+<span class="author-block"><sup>4</sup>Huawei Hong Kong Research Center</span><br>
 
 ![image](./assets/framework.png)
 
